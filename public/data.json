@@ -1,0 +1,116 @@
+[
+  {
+    "category": "mobile",
+    "subcategory": "mobile",
+    "name": "mobile",
+    "price": 0,
+    "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "features": {
+      "brand": "google",
+      "model": "pixel",
+      "color": "black",
+      "size": "5.5",
+      "ram": "4gb",
+      "rom": "64gb",
+      "battery": "3000mah",
+      "processor": "snapdragon 821",
+      "os": "android 7.1.1",
+      "camera": "12mp"
+    }
+  },
+  {
+    "category": "mobile",
+    "subcategory": "mobile",
+    "name": "mobile",
+    "price": 0,
+    "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "features": {
+      "brand": "google",
+      "model": "pixel",
+      "color": "black",
+      "size": "5.5",
+      "ram": "4gb",
+      "rom": "64gb",
+      "battery": "3000mah",
+      "processor": "snapdragon 821",
+      "os": "android 7.1.1",
+      "camera": "12mp"
+    }
+  },
+  {
+    "category": "mobile",
+    "subcategory": "mobile",
+    "name": "mobile",
+    "price": 0,
+    "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "features": {
+      "brand": "google",
+      "model": "pixel",
+      "color": "black",
+      "size": "5.5",
+      "ram": "4gb",
+      "rom": "64gb",
+      "battery": "3000mah",
+      "processor": "snapdragon 821",
+      "os": "android 7.1.1",
+      "camera": "12mp"
+    }
+  },
+  {
+    "category": "cell phone",
+    "subcategory": "telephone",
+    "name": "mobile",
+    "price": 0,
+    "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "features": {
+      "brand": "google",
+      "model": "pixel",
+      "color": "black",
+      "size": "5.5",
+      "ram": "4gb",
+      "rom": "64gb",
+      "battery": "3000mah",
+      "processor": "snapdragon 821",
+      "os": "android 7.1.1",
+      "camera": "12mp"
+    }
+  },
+  {
+    "category": "bus",
+    "subcategory": "suv",
+    "name": "mobile",
+    "price": 0,
+    "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "features": {
+      "brand": "google",
+      "model": "pixel",
+      "color": "black",
+      "size": "5.5",
+      "ram": "4gb",
+      "rom": "64gb",
+      "battery": "3000mah",
+      "processor": "snapdragon 821",
+      "os": "android 7.1.1",
+      "camera": "12mp"
+    }
+  },
+  {
+    "category": "phone",
+    "subcategory": "mobile",
+    "name": "mobile",
+    "price": 0,
+    "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "features": {
+      "brand": "google",
+      "model": "pixel",
+      "color": "black",
+      "size": "5.5",
+      "ram": "4gb",
+      "rom": "64gb",
+      "battery": "3000mah",
+      "processor": "snapdragon 821",
+      "os": "android 7.1.1",
+      "camera": "12mp"
+    }
+  }
+]
